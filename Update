@@ -1,0 +1,11 @@
+cd
+cd
+cd
+rm -rf vip-insta-blaster
+pkg install -y git
+pkg install python
+apt install git curl php wget -y 
+git clone https://github.com/GuptajiiHacker/vip-insta-blaster
+python3 -m pip install requests
+
+python3 igblast.py
