@@ -15,7 +15,7 @@
 
 ## Documentation
 
-[Education purpose only](https://Hackaro.com)
+[Education purpose only](https://HackerGuptajii.com)
 
 IF you want to shutdown somone instagram account remotely. This tool will help you.
 
@@ -41,8 +41,7 @@ IF you want to shutdown somone instagram account remotely. This tool will help y
 pkg install -y git
 pkg install python
 apt install git curl php wget -y 
-git clone https://github.com/cyberkallan/IG-blaster
-cd IG-blaster
+git clone https://github.com/GuptajiiHacker/vip-insta-blaster
 python3 -m pip install requests
 
 > Run : python3 igblast.py
@@ -50,6 +49,6 @@ python3 -m pip install requests
     
 ## Acknowledgements
 
- - [Join the community](https://hackaro.com)
+ - [Join the community](https://HackerGuptajii.com)
  - [more tools](https://denotech.in)
- - [github](https://GitHub.com/cyberkallan)
+ - [github](https://GitHub.com/HackerGuptajii)
